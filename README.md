@@ -5,26 +5,31 @@ A helpful 4-page data science cheatsheet to assist with exam reviews, interview 
 Inspired by Maverick's *Data Science Cheatsheet* (hence the 2.0 in the name), located [here](https://github.com/ml874/Data-Science-Cheatsheet).
 
 Topics covered (some more in-depth than others) include:
-- Common Distributions
 - Linear and Logistic Regression
 - Decision Trees and Random Forest
 - SVM
-- KNN
+- K-Nearest Neighbors
 - Clustering
 - Boosting
 - Dimension Reduction (PCA, LDA, Factor Analysis)
-- NLP
+- Natural Language Processing
 - Neural Networks
 - Recommender Systems
 - Reinforcement Learning
 - Anomaly Detection
+- and more!
 
+This cheatsheet will be occasionally updated with new/improved info, so consider a follow/star to stay up to date.
+
+Current planned additions:
+- Time Series (ARIMA, SARIMA)
+- Additional statistical theories often seen in interviews
 
 ## Links
 * [Data Science Cheatsheet 2.0 PDF](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)
 
 ## Screenshots
-![](images/page1-1.png?raw=true)
+![](images/page1-1.png?raw=true) 
 ![](images/page2-1.png?raw=true)
 
 ### Why is Python/SQL not covered in this cheatsheet?
@@ -32,6 +37,9 @@ I planned for this resource to cover mainly algorithms, models, and concepts, as
 
 
 ## License
+
+Feel free to share this resource in classes, review sessions, or to anyone who might find it helpful :)
+
 This work is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br/>
